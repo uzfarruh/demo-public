@@ -1,6 +1,6 @@
 Feature: The application should be running
 
-  @smoke @test @test1
+  @smoke @test @test3
   Scenario: simple login
     Given I am on the home page
     When I clicked "Form Authentication" page
